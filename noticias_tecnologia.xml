@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Wed, 29 Jan 2025 09:00:00 EST</pubDate>
+        <lastBuildDate>Wed, 29 Jan 2025 09:00:00 EST</lastBuildDate>
+
+        <item>
+            <title>EE UU reconoce que los centros de datos son perjudiciales para la salud</title>
+            <link>https://elpais.com/tecnologia/2025-02-07/ee-uu-reconoce-que-los-centros-de-datos-son-perjudiciales-para-la-salud.html</link>
+            <description>EEUU reconoce que los centros de datos son perjudiciales para la salud.</description>
+            <pubDate>Wed, 29 Jan 2025 10:00:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2025-02-07/ee-uu-reconoce-que-los-centros-de-datos-son-perjudiciales-para-la-salud.html</guid>
+            <category>Tecnología</category>
+            <enclosure url="https://imagenes.elpais.com/resizer/v2/VO4LG43L5P4I3MWP7M5IB2N7RI.jpg" type="image/jpeg" length="1200"/>
+            <author>jaimemuozmarcelo@gmail.com(Jaime Muñoz)</author>
+            <comments>https://elpais.com/tecnologia/2025-02-07/ee-uu-reconoce-que-los-centros-de-datos-son-perjudiciales-para-la-salud.html</comments>
+        </item>
+
+        <item>
+            <title>¿Momento Sputnik o momento Eureka?</title>
+            <link>https://elpais.com/tecnologia/2025-02-02/momento-sputnik-o-momento-eureka-el-turbocapitalismo-parasita-el-avance-cientifico.html</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Wed, 29 Jan 2025 08:30:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2025-02-02/momento-sputnik-o-momento-eureka-el-turbocapitalismo-parasita-el-avance-cientifico.html</guid>
+            <category>Tecnología</category>
+            <enclosure url="https://imagenes.elpais.com/resizer/v2/WJ4FOHUV3FHE7OF2UKNCD3QA7U.jpg" type="image/jpeg" length="1200"/>
+            <author>jaimemuozmarcelo@gmail.com(Jaime Muñoz)</author>
+            <comments>https://elpais.com/tecnologia/2025-02-02/momento-sputnik-o-momento-eureka-el-turbocapitalismo-parasita-el-avance-cientifico.html</comments>
+        </item>
+
+        <item>
+            <title>Doce tendencias tecnológicas para 2025, el comienzo de la era de la convergencia</title>
+            <link>https://elpais.com/tecnologia/2024-12-24/doce-tendencias-tecnologicas-para-2025-el-comienzo-de-la-era-de-la-convergencia.html</link>
+            <description>Los avances singulares se integran en desarrollos complejos, redefiniendo el mundo digital que conocemos.</description>
+            <pubDate>Wed, 29 Jan 2025 08:30:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2024-12-24/doce-tendencias-tecnologicas-para-2025-el-comienzo-de-la-era-de-la-convergencia.html</guid>
+            <category>Ciberseguridad</category>
+            <enclosure url="https://imagenes.elpais.com/resizer/v2/WRH7D3PGNGYIMKU7KEDEGY66EQ.jpg" type="image/jpeg" length="1200"/>
+            <author>jaimemuozmarcelo@gmail.com(Jaime Muñoz)</author>
+            <comments>https://elpais.com/tecnologia/2024-12-24/doce-tendencias-tecnologicas-para-2025-el-comienzo-de-la-era-de-la-convergencia.html</comments>
+        </item>
+    </channel>
+</rss>
